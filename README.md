@@ -1,2 +1,9 @@
 # bitability-knowledge-base
-BitAbility software studio's knowledge base.
+比特能力软件工作室知识库。
+
+可以在这里分享平时开发过程中的的所思所得。
+
+根据需要可自行添加分类。目前暂时有笼统的前后端分类，后续会维护。
+
+提交记录最好能写清楚。
+
